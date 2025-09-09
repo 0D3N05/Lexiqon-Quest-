@@ -16,11 +16,13 @@ Please enjoy it, and feel free to change anything you like. That would be awesom
 - Genre: Wordle-like puzzle game
 - Lore: None 
 - Interface: GUI included
-  
+
 Date Created: July 2024 (exact date unknown)
 
 Have fun, and thanks for playing!
 
 Requirement:
-  - Python (Obviously)
-  - ttkbootstrap ( Python Library) Please install it since I use it to create interface
+- Python (Obviously)
+- ttkbootstrap ( Python Library) Please install it since I use it to create interface
+
+And also its not click to play , so please execute it on vscode (any ide) or terminal. 
