@@ -1,7 +1,7 @@
 import tkinter as tk
 import ttkbootstrap as tb
 from ttkbootstrap.constants import *
-from Data import word
+
 import test
 
 
